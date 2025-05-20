@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Project Visualis.<br>🌱 I’m currently studying in Université Grenoble Alpes.<br>💬 Ask me about my GMod server, coding problems and video games.<br>⚡ Fun fact I'm actually a jedi (or a sith who knows).
+🌱 I’m currently studying in Université Grenoble Alpes.<br>💬 Ask me about coding problems and video games.<br>⚡ Fun fact I'm actually a jedi (or a sith who knows).
 
 
 ## 🌐 Socials:
